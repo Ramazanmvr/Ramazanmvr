@@ -53,6 +53,82 @@
 
 ---
 
+## 🚀 My Projects
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">📦 Project One</h3>
+      <p align="center">
+        <a href="https://github.com/Ramazanmvr/project-one">
+          <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        Короткое описание проекта. Что делает, какие технологии использованы.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🛠️ Project Two</h3>
+      <p align="center">
+        <a href="https://github.com/Ramazanmvr/project-two">
+          <img src="https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Короткое описание проекта. Что делает, какие технологии использованы.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+        <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⚡ Project Three</h3>
+      <p align="center">
+        <a href="https://github.com/Ramazanmvr/project-three">
+          <img src="https://img.shields.io/badge/View%20Project-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+      <p align="center">
+        Короткое описание проекта. Что делает, какие технологии использованы.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌟 Project Four</h3>
+      <p align="center">
+        <a href="https://github.com/Ramazanmvr/project-four">
+          <img src="https://img.shields.io/badge/View%20Project-7B2FBE?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">
+        Короткое описание проекта. Что делает, какие технологии использованы.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/><br/>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D9FF&height=120&section=footer"/>
 
 </div>
